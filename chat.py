@@ -1,7 +1,6 @@
 # Author: Rodolfo Rivera & Mohammad Asim Sheikh
 # Date: 04/12/2024
 # Goal: A Chat Application for Remote Message Exchange
-# Title: COMP429 Programming Assignment 1
 
 import sys
 import socket
