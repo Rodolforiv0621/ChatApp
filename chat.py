@@ -1,6 +1,6 @@
 # Author: Rodolfo Rivera & Mohammad Asim Sheikh
 # Date: 04/12/2024
-# Goal: A Chat Application for Remote Message Exchange
+# A Chat Application for Remote Message Exchange
 
 import sys
 import socket
